@@ -33,4 +33,4 @@
     - Expected Output: Error
 
 ### Flowchart
-![alt text]()
+![alt text](https://github.com/amdemw206-coder/Tech-Interview-Prep--Merging-Customer-Data-for-Market-Analysis/blob/main/Flowchart/AD311TIP2.drawio.png)
